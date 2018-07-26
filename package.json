@@ -1,0 +1,10 @@
+{
+  "name": "eslint-bug",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Gabriel Duarte <gabrielqduarte@gmail.com> (https://github.com/GabrielDuarteM/)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.2.0"
+  }
+}
